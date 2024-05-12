@@ -1,0 +1,6 @@
+# dataset.yaml
+train: /content/Dataset/train  # Updated path to your train images directory
+val: /content/Dataset/val      # Updated path to your validation images directory
+
+nc: 3  # Number of classes
+names: ['room', 'window', 'door']  # Class names
